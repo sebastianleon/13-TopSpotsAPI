@@ -1,0 +1,1 @@
+c:\users\juan\documents\visual studio 2015\Projects\13-TopSpotsAPI\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.csprojResolveAssemblyReference.cache
